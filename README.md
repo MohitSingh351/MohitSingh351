@@ -15,36 +15,22 @@ I am a B.Tech (AI-ML) student at Adani University 🏫, passionate about Data Sc
 ---
 
 ## 🛠️ **Skills**
-- **Programming Languages**: 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- **Frameworks & Libraries**: 
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
-  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white) 
-  ![Seaborn](https://img.shields.io/badge/Seaborn-9D5B6E?style=for-the-badge&logo=seaborn&logoColor=white)
+### **Frameworks & Libraries**: 
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-9D5B6E?style=for-the-badge&logo=seaborn&logoColor=white)
 
-- **Machine Learning**: 
-  ![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-FF6347?style=for-the-badge&logo=logistic&logoColor=white) 
-  ![Linear Regression](https://img.shields.io/badge/Linear%20Regression-1E90FF?style=for-the-badge&logo=linear&logoColor=white) 
-  ![Random Forest](https://img.shields.io/badge/Random%20Forest-32CD32?style=for-the-badge&logo=random%20forest&logoColor=white) 
-  ![Decision Trees](https://img.shields.io/badge/Decision%20Trees-FF6347?style=for-the-badge&logo=decision%20tree&logoColor=white) 
-  ![Gradient Boosting](https://img.shields.io/badge/Gradient%20Boosting-FFD700?style=for-the-badge&logo=gradient%20boosting&logoColor=white)
+### **Machine Learning**: 
+  ![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-FF6347?style=for-the-badge&logo=logistic&logoColor=white) ![Linear Regression](https://img.shields.io/badge/Linear%20Regression-1E90FF?style=for-the-badge&logo=linear&logoColor=white) ![Random Forest](https://img.shields.io/badge/Random%20Forest-32CD32?style=for-the-badge&logo=random%20forest&logoColor=white) ![Decision Trees](https://img.shields.io/badge/Decision%20Trees-FF6347?style=for-the-badge&logo=decision%20tree&logoColor=white) ![Gradient Boosting](https://img.shields.io/badge/Gradient%20Boosting-FFD700?style=for-the-badge&logo=gradient%20boosting&logoColor=white)
 
-- **Tools**: 
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
-  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+### **Tools**: 
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-- **Other**: 
+### **Other**: 
   ![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-F1C232?style=for-the-badge&logo=marketing&logoColor=white)
-
-
 
 ---
 
