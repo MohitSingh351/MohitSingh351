@@ -8,7 +8,7 @@ I am a B.Tech (AI-ML) student at Adani University 🏫, passionate about Data Sc
 
 ## 🌟 **About Me**
 - 🚀 Infosys Springboard Intern focusing on CNN and Deep Learning.
-- 🎓 CGPA: 8.7 — Aiming for excellence in AI and ML! 💪
+- 🎓 CGPA: 8.9 — Aiming for excellence in AI and ML! 💪
 - 📚 NPTEL Python for Data Science: Ranked in the Top 5% — Passionate about mastering data science! 📊
 - 🎯 Career Goals: Lead innovations in AI and Data Science, with a future goal of diving deeper into Product Management to bridge the gap between technology 🖥️ and business 💼.
 
