@@ -35,8 +35,11 @@ Stack: Django · Gemini API · Celery · Redis · WebSocket
 ## Tech
 
 **Production:** Python · Django (DRF) · PostgreSQL · Celery · Redis · REST APIs
+
 **AI/ML:** TensorFlow · EfficientNet · CNNs · Gemini API · LLM Pipelines
+
 **Learning:** React · TypeScript · n8n · MCP workflows
+
 **Tools:** Git · Linux · Postman · JWT
 
 ---
