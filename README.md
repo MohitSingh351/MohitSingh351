@@ -23,8 +23,8 @@ Stack: Django · Gemini API · Celery · Redis · WebSocket · Tally ERP
 
 ## Credentials
 
-- NPTEL Gold Medal — Business Intelligence & Analytics · Top 1% · IIT Madras
-- NPTEL Silver — Python for Data Science · Top 5%
+- NPTEL Gold Medal - Business Intelligence & Analytics · Top 1% · IIT Madras
+- NPTEL Silver - Python for Data Science · Top 5%
 - Google Project Management Professional Certificate
 - 8.9 CGPA · Adani University · B.Tech CS (AI-ML)
 
