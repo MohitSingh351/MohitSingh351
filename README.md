@@ -8,6 +8,7 @@
 ## What I'm building
 
 **FreightSetu** `[Live]`
+
 Multi-tenant B2B SaaS for freight forwarding operations.
 Stack: Django · DRF · PostgreSQL · Celery · Redis · React (migrating)
 Architecture: Custom ORM-level tenant isolation · JWT auth · 
@@ -15,8 +16,9 @@ async task pipeline · RBAC
 → shipping.mohitrsingh.in
 
 **SmartDocs** `[Live]`
+
 Vision-native LLM extraction pipeline for bank statement parsing.
-Stack: Django · Gemini API · Celery · Redis · WebSocket · Tally ERP
+Stack: Django · Gemini API · Celery · Redis · WebSocket
 → smartdocs.mohitrsingh.in
 
 ---
