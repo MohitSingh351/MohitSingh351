@@ -1,7 +1,7 @@
 # Mohit Singh — Founder & AI-ML Engineer
 
 > Building **FreightSetu** — a live B2B SaaS for freight forwarding automation.
-> 1 paying pilot client · 60% reduction in documentation turnaround · Jan 2024–Present
+> 1 paying pilot client · 60% reduction in documentation turnaround · August 2025 - Present
 
 ---
 
@@ -13,7 +13,7 @@ Multi-tenant B2B SaaS for freight forwarding operations.
 Stack: Django · DRF · PostgreSQL · Celery · Redis · React (migrating)
 Architecture: Custom ORM-level tenant isolation · JWT auth · 
 async task pipeline · RBAC
-→ shipping.mohitrsingh.in
+→ freightsetu.in
 
 **SmartDocs** `[Live]`
 
